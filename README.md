@@ -10,6 +10,20 @@ assignment → reflection questions.*
 
 Course lead: Dr. Sakinat Folorunso · sakinat.folorunso@oouagoiwoye.edu.ng
 
+## 📚 Course Teaching Notes
+
+The complete teaching notes for CMP 701 are available through Google Docs.
+
+- 📖 **[Open Complete Class Teaching Notes (Google Docs)](https://docs.google.com/document/d/1Rx1M9Ua1ZffxBT7c8lHq3zvyhOcbHtzaS-EwQMZJ0yU/edit?tab=t.iwiwx0sf24mt)**
+- 💻 Weekly Python practical notebooks are available in the [`notebooks/`](notebooks/) folder.
+- 📂 Course alignment and learning outcomes are available in [`docs/COURSE_ALIGNMENT.md`](docs/COURSE_ALIGNMENT.md).
+
+**Access:** Students should use their Google accounts to open the teaching notes. Please ensure the document's sharing permission is set to Viewer for anyone with the link.
+
+
+
+
+
 ## Notebooks
 
 Click a badge to open the notebook in Google Colab.
