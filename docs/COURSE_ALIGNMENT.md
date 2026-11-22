@@ -16,13 +16,13 @@
 
 | Week | Notebook | Assignment to set |
 |---|---|---|
-| 1 | `Week01` | Print five real-life problems solvable by programs (notebook); optional one-page essay on programming in one domain |
+| 1 | `Week01` | Structured essay (about 400 words) on programming in one application domain (class note 1.10); the five real-life problems are the class task |
 | 2 | `Week02` | Algorithm **and flowchart** for an ATM withdrawal (PIN limit of 3 attempts) |
 | 3 | `Week03` | Program collecting name, matric number and three scores; display the average |
 | 4 | `Week04` | Net salary from basic pay and deductions (pass/fail program is the class task) |
-| 5 | `Week05` | Loan eligibility with age, income and employment status (electricity bill is the class task, flat and marginal versions) |
+| 5 | `Week05` | Electricity bill, Part A flat and Part B marginal (class note 5.11); loan eligibility with age, income and employment is the class task |
 | 6 | `Week06` | Sum numbers until the user enters 0 |
-| 7 | `Week07` | Multiplication tables 1–5 with nested loops (even numbers up to 50 is the class task) |
+| 7 | `Week07` | Even numbers from 2 to 100, stopping after 50 inclusive (class note 7.8); multiplication tables 1–5 with nested loops is the class task |
 | 8 | `Week08` | Names and scores of 10 students as `(name, score)` tuples; highest, lowest, sorted listing |
 | 9 | `Week09` | Student records as dictionaries; highest scorer |
 | 10 | `Week10` | Modular student-record program with 4+ documented functions |

@@ -4,6 +4,10 @@
 
 Revision following a full review of the original course pack.
 
+**Aligned with class note v2**
+- Week 1 assignment = essay; Week 5 assignment = electricity (flat and marginal), class task = loan eligibility; Week 7 assignment = even numbers to 50, class task = multiplication tables.
+- Class tests scheduled in Weeks 4, 7 and 11. See `CMP701_COMPUTER_PROGRAMMING_I_PYTHON_v2.docx`.
+
 **New**
 - Week 13 (error handling and debugging) and Week 14 (OOP and mini-project) notebooks.
 - Mini-project workbook now requires a class, validated input, CSV read **and** write, `assert` tests and an AI-assistance declaration.
